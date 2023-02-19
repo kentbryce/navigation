@@ -6,16 +6,14 @@ draft: false
 
 #### 这是 Hugo 版 WebStack 主题
 
-本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io)
-制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/><br/>
+本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/><br/>
 
 - [https://github.com/liutongxu/liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io)
 - [https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
 
 <br/>
 
-主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过
-data 目录下 webstack.yml 修改。
+主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。
 
 这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
 

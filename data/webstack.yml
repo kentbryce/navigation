@@ -2,12 +2,7 @@
 
 - taxonomy: 常用推荐
   icon: far fa-star
-  links: 
-    - title: 关注我们
-      logo: ""
-      url: https://bioitee.com
-      qrcode: assets/images/logos/qrcode.jpg
-      description: BioIT 爱好者！
+  links:
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
@@ -162,11 +157,10 @@
           logo: 电影天堂.png
           url: https://www.dytt8.net/index.htm
           description: 电影天堂（DYTT8），高清电影下载。
-        - title: 茶杯狐
+        - title: 电影天堂（DYGOD）
           logo: 电影天堂.png
-          url: https://cupfox.app/
-          description: 茶杯狐影院
-
+          url: https://www.dygod.net/
+          description: 电影天堂（DYGOD），高清电影下载。
     - term: 游戏竞技
       links:
         - title: 百度贴吧

@@ -2,12 +2,7 @@
 
 - taxonomy: 常用推荐
   icon: far fa-star
-  links: 
-    - title: 关注我们
-      logo: ""
-      url: https://bioitee.com
-      qrcode: assets/images/logos/qrcode.jpg
-      description: BioIT 爱好者！
+  links:
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
@@ -622,10 +617,6 @@
           url: https://bbs.pinggu.org/
           logo: 经管之家.jpg
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
         - title: 酷壳
           url: https://www.coolshell.cn/
           logo: ''
